@@ -1,0 +1,1 @@
+Permite al usuario llevar acabo cambios a diferentes bases
